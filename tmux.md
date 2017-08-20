@@ -2,8 +2,6 @@
 <html>
   <head>
     <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
-    <title>dayid's tmux & screen cheat-sheet</title>
-    <link rel="stylesheet" type="text/css" href="/support/light.css">
   </head>
   <body>
     <h1>tmux &amp; screen cheat-sheet</h1>
