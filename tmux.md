@@ -132,6 +132,10 @@
             <td>^b q                                                                </td>
             <td>                                                                    </td>
         </tr>
+        <tr><td>Resize Pane                                                         </td>
+            <td>^B :resize-p -D 2 | ^B :resize-p -U 2 | ^B :resize-p -L 2 | ^B :resize-p -R 2                                                                </td>
+            <td>                                                                    </td>
+        </tr>
         <tr><td>toggle zoom-state of current pane (maximize/return current pane)    </td>
             <td>^b z                                                                </td>
             <td>                                                                    </td>
